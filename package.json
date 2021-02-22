@@ -1,0 +1,22 @@
+{
+  "name": "assessment",
+  "version": "1.0.0",
+  "description": "\"# Assessment\"",
+  "main": "index.js",
+  "scripts": {
+    "cypress:open": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imsthilaka/Assessment.git"
+  },
+  "author": "Thilaka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/imsthilaka/Assessment/issues"
+  },
+  "homepage": "https://github.com/imsthilaka/Assessment#readme",
+  "devDependencies": {
+    "cypress": "^6.5.0"
+  }
+}
